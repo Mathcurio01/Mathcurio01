@@ -1,16 +1,17 @@
-### Hi there 👋
+### Sadikshya Subedi
+Hello I am Sadikshya Subedi,flutter devloper from Nepal country.Currently,doing internship at Thulo Technology.
+### My works
+- Working on c tutorial.
+### Connect with me
+- [LinkedIn][www.linkedin.com/in/sadikshya-subedi-70b0842a5]
+- [facebook][https://www.facebook.com/sadhikshya.subedi/]
 
-<!--
-**Mathcurio01/Mathcurio01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ### Education
+  - Amarsingh  school(SEE 2076)
+  - Shitaldevi school(10+2)
+    ### Experience
+    - Flutter Internship at Thulo technlogy.
+      ### Skills
+      - Dart
+      - Flutter
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
