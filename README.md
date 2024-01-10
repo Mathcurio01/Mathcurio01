@@ -3,8 +3,8 @@ Hello I am Sadikshya Subedi,flutter devloper from Nepal country.Currently,doing 
 ### My works
 - Working on c tutorial.
 ### Connect with me
-- [LinkedIn][www.linkedin.com/in/sadikshya-subedi-70b0842a5]
-- [facebook][https://www.facebook.com/sadhikshya.subedi/]
+- [LinkedIn](www.linkedin.com/in/sadikshya-subedi-70b0842a5)
+- [facebook](https://www.facebook.com/sadhikshya.subedi/)
 
   ### Education
   - Amarsingh  school(SEE 2076)
