@@ -12,6 +12,6 @@ Hello I am Sadikshya Subedi,flutter devloper from Nepal country.Currently,doing 
     ### Experience
     - Flutter Internship at Thulo technlogy.
       ### Skills
-      - Dart
-      - Flutter
+  - Dart
+ - Flutter
 
