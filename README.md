@@ -6,7 +6,7 @@ Hello I am Sadikshya Subedi,flutter devloper from Nepal country.Currently,doing 
 ### Connect with me
 - [LinkedIn](www.linkedin.com/in/sadikshya-subedi-70b0842a5)
 - [facebook](https://www.facebook.com/sadhikshya.subedi/)
-- [Email](sadikshyasubedi62@gmail.com).
+- [Email](https://mail.google.com/mail/u/0/#inbox).
 
   ### Education
   - Amarsingh  school(SEE 2076)
