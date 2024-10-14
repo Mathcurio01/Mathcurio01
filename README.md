@@ -16,8 +16,6 @@ Hello, I'm Sadikshya Subedi, a passionate Python Developer. I am learning Python
 
 ### Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/sadikshya-subedi-70b0842a5/)
-- [Facebook](https://www.facebook.com/sadhikshya.subedi/)
-- [Email](mailto:sadikshyasubedi62@gmail.com)
 
 ### Education
 - Bachelor of Computer Engineering, Pokhara Engineering College (2080-2083)
