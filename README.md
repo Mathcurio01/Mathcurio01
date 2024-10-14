@@ -24,11 +24,6 @@ Hello, I'm Sadikshya Subedi, a passionate Python Developer. I am learning Python
 
 ### Experience
 - Flutter Training: Completed a comprehensive training program focusing on Dart and Flutter development.
-- Flutter Internship at [Thulo Technology](https://thulotechnology.com/): Currently gaining hands-on experience in mobile app development, UI/UX design, and team collaboration.
+- Flutter Internship at [Thulo Technology](https://thulotechnology.com/)
 - Python Training From Technology Channel
 
-### Skills
-- Programming Languages: Dart, Java, C, C++
-- Mobile Development: Flutter
-- Tools & Technologies: Git, Github
-- Soft Skills: Communication, Team Collaboration, Problem-solving
