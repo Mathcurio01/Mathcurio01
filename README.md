@@ -1,12 +1,18 @@
 ### About Me
-Hello, I'm Sadikshya Subedi, a passionate Flutter developer from Nepal currently pursuing an internship at Thulo Technology. I enjoy creating mobile apps and exploring new technologies in the mobile development space.
+Hello, I'm Sadikshya Subedi, a passionate Python Developer. I am learning Python and its libraries. Also intrested in AI and Machine Learning.
 
-### My Works
-- Flutter Profile App: An interactive profile app showcasing my skills and experience.
-- Interest Calculator App: A finance app that calculates interest based on user input.
-- Book Reader App: A mobile app for reading digital books with a user-friendly interface.
-- Todo List App: A task management app to organize daily activities efficiently.
-- Expenses Tracker: A budgeting app that helps users track their expenses and manage finances.
+### Technical Skills
+- Programming Languages: Python (Proficient), C (Intermediate), SQL (Intermediate)
+- AI/ML Frameworks: Numpy, Pandas, Tensorflow
+- Version Control: Git, GitHub
+- Tools & IDEs: Visual Studio Code, Jupyter Notebook
+- Other Skills: Basic Networking, Operating Systems, Troubleshooting
+
+### Projects
+- QR Generator
+- Random Number Guess
+- Random Password Generator
+- Pomodoro Timer
 
 ### Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/sadikshya-subedi-70b0842a5/)
@@ -21,6 +27,7 @@ Hello, I'm Sadikshya Subedi, a passionate Flutter developer from Nepal currently
 ### Experience
 - Flutter Training: Completed a comprehensive training program focusing on Dart and Flutter development.
 - Flutter Internship at [Thulo Technology](https://thulotechnology.com/): Currently gaining hands-on experience in mobile app development, UI/UX design, and team collaboration.
+- Python Training From Technology Channel
 
 ### Skills
 - Programming Languages: Dart, Java, C, C++
