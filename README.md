@@ -2,8 +2,8 @@
 Hello, I'm Sadikshya Subedi, a passionate Python Developer. I am learning Python and its libraries. Also intrested in AI and Machine Learning.
 
 ### Technical Skills
-- Programming Languages: Python (Proficient), C (Intermediate), SQL (Intermediate)
-- AI/ML Frameworks: Numpy, Pandas, Tensorflow
+- Programming Languages: Python , C (Intermediate), SQL (Intermediate)
+- AI/ML Frameworks: Numpy, Pandas, 
 - Version Control: Git, GitHub
 - Tools & IDEs: Visual Studio Code, Jupyter Notebook
 - Other Skills: Basic Networking, Operating Systems, Troubleshooting
@@ -25,5 +25,5 @@ Hello, I'm Sadikshya Subedi, a passionate Python Developer. I am learning Python
 ### Experience
 - Flutter Training: Completed a comprehensive training program focusing on Dart and Flutter development.
 - Flutter Internship at [Thulo Technology](https://thulotechnology.com/)
-- Python Training From Technology Channel
+
 
